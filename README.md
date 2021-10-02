@@ -1,7 +1,6 @@
 # ETL with MySQL and Data-visualization-with-power-BI
 Above is a project on cleaning, transforming and visualizing sales data using power BI.
-. SQL database dump is in db_dump.sql file above. Download `db_dump.sql` file to your local computer and import it as per instructions given in the tutorial video
-
+. SQL database dump is in db_dump.sql file above. 
 ### Data Analysis Using SQL
 
 1. Show all customer records
